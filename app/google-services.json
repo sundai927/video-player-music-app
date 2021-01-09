@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301851078214",
+    "firebase_url": "https://music-app-beaac-default-rtdb.firebaseio.com",
+    "project_id": "music-app-beaac",
+    "storage_bucket": "music-app-beaac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301851078214:android:4190a27c4857acc1572447",
+        "android_client_info": {
+          "package_name": "edu.ds4jb.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301851078214-efoqj0t08c9sntco2i88mg7g3ics0srf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ds4jb.videoplayer",
+            "certificate_hash": "4de3e6323ee36ce903e16d3316550e3755ab281c"
+          }
+        },
+        {
+          "client_id": "301851078214-97cer4fp8p5e6083n3to72obhijn92pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvzBt9iWHRA3tOTRCjj3Oh8pE4ijP6kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301851078214-97cer4fp8p5e6083n3to72obhijn92pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
